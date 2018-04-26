@@ -1,4 +1,4 @@
-### This repo is for spark and scala notes and the tests i want run on spark and scala
+### This repo is for spark and scala notes and examples
 
 the terminology used in spark and their explanations are below
 
