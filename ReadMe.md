@@ -106,7 +106,7 @@ an expression is a set of transformations on one or more values on a record in a
 Memory Managerment
 spark uses a dynamic memory management cache for execution and storage. execution can override storage and storage blocks of LRU memory will be dropped.
 
- 
+
 
 
 
