@@ -1,5 +1,13 @@
 # Scala notes
 
+Scala classes are like java classes
+
+Traits are like interfaces in java but they can also contain concrete members
+
+Objects in scala are like classes, but with one instance. members of the object are accessible.
+
+Packages work same as java
+
 Type inference  
 when scala figures out the datatype of the provided value based on the context
 
@@ -62,6 +70,6 @@ example is the decorator method in the scalaexamples worksheet
 
 sum(1 to 10 : _*) would be read at  : would be consider this as '\_\*' would be a sequence of something
 
-Notes and questions to self
+####  Notes and questions to self
 
 why is apply method special
